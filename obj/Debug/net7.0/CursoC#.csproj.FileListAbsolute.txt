@@ -1,0 +1,15 @@
+C:\Users\dafne\OneDrive\Documentos\CursoC#\bin\Debug\net7.0\CursoC#.exe
+C:\Users\dafne\OneDrive\Documentos\CursoC#\bin\Debug\net7.0\CursoC#.deps.json
+C:\Users\dafne\OneDrive\Documentos\CursoC#\bin\Debug\net7.0\CursoC#.runtimeconfig.json
+C:\Users\dafne\OneDrive\Documentos\CursoC#\bin\Debug\net7.0\CursoC#.dll
+C:\Users\dafne\OneDrive\Documentos\CursoC#\bin\Debug\net7.0\CursoC#.pdb
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.csproj.AssemblyReference.cache
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.AssemblyInfoInputs.cache
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.AssemblyInfo.cs
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.csproj.CoreCompileInputs.cache
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.dll
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\refint\CursoC#.dll
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.pdb
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\CursoC#.genruntimeconfig.cache
+C:\Users\dafne\OneDrive\Documentos\CursoC#\obj\Debug\net7.0\ref\CursoC#.dll
